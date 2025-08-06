@@ -1,6 +1,6 @@
 # ☀️ Deep Learning for Solar Power Generation Forecasting
 
-Forecasting solar power output is a crucial task in the integration of renewable energy into modern power grids. This project investigates and compares advanced deep learning techniques—including hybrid and ensemble architectures—to model and predict solar power generation using real-world multivariate time-series data.
+Forecasting solar power output is a crucial task in the integration of renewable energy into modern power grids. This project investigates and compares advanced deep learning techniques, including hybrid and ensemble architectures to model and predict solar power generation using real-world multivariate time-series data.
 
 ---
 
